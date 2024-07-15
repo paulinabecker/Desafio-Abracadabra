@@ -1,8 +1,5 @@
 # Desafio-Abracadabra
 
-En este desafío validaremos nuestros conocimientos de Node y Express, además de creación
-de rutas, Objetos Request y Response, Middlewares y Devolución de sitios web estáticos.
-
 Descripción
 
 Los sitios web en la actualidad son la cara visible de las empresas en el mundo digital, por
